@@ -161,3 +161,9 @@ section:nth-of-type(odd) img {
   height: 30px
 }
 
+.message {
+  margin-top: 10px;
+  width: 600px;
+  height: 250px;
+  font-size: 20px;
+}
