@@ -16,16 +16,16 @@ body {
 }
 
 header {
-  font-size: 2rem;
+  font-size: 32px;
   position: fixed;
   left: 0;
   right: 0;
-  padding: .5em 1em;
+  padding: 8px 16px;
   box-shadow: 0 2px 4px -2px black;
 }
 
 main {
-  min-height: 100vh;
+  min-height: 1080px;
   padding: 64px 24px 96px;
   box-shadow: 0 0 12px -2px black;
   color: #eee;
@@ -49,7 +49,7 @@ header::after {
 .links a {
   text-decoration: none;
   color: inherit;
-  margin-left: .25em;
+  margin-left: 4px;
 }
 
 .links a:first-of-type {
@@ -118,8 +118,8 @@ section:nth-of-type(odd) img {
   width: 200px;
   height: 150px;
   float: right;
-  margin-left: 1em;
-  margin-bottom: 1em;
+  margin-left: 16px;
+  margin-bottom: 16px;
 }
 
 .project {
@@ -132,3 +132,4 @@ section:nth-of-type(odd) img {
   margin: 2px auto;
   padding: 1px;
 }
+
