@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: darkgreen;
+  background: darkgreen !important;
   max-width: 960px;
   color: #232323;
   margin: 0 auto;
