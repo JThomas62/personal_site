@@ -10,7 +10,7 @@ html {
 
 body {
   background: darkgreen !important;
-  max-width: 960px;
+  max-width: 1500px;
   color: #232323;
   margin: 0 auto;
 }
@@ -111,7 +111,7 @@ section:nth-of-type(even) > img {
 .quote{
   text-align: center;
   margin-top: 100px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 section:nth-of-type(odd) img {
@@ -171,4 +171,9 @@ section:nth-of-type(odd) img {
 .thxsubmit {
   text-align: center;
   font-size: 50px;
+}
+
+.intrest {
+  margin-top: 50px;
+  font-size: 30px;
 }
